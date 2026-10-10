@@ -1,0 +1,9 @@
+{
+  "name": "learning-garden-nine-games",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Nine Thai-first children's learning games. No external dependencies or AI services.",
+  "scripts": { "start": "node server.mjs", "test": "node --test tests/*.test.mjs" },
+  "engines": { "node": ">=22" }
+}
